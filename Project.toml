@@ -1,0 +1,11 @@
+name = "SOT"
+uuid = "f8dad08f-a02b-4b42-8cb3-ef699c6ab5d6"
+authors = ["stivenr "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LORISQL = "d0db7f91-116f-4f60-894d-6c30dd795d7a"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
